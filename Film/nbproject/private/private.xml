@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Film/src/model/FilmModel.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Film/src/controller/ControllerFilm.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Film/src/controller/ControllerDetail.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Film/src/dao/DaoFilm.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Film/src/database/Connector.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Film/src/model/TableFilmModel.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Film/src/view/TambahForm.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Film/src/dao/InterfaceFilm.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Film/src/controller/ControllerTambah.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Film/src/main/Main.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Film/src/view/FilmView.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/Film/src/view/DetailForm.java</file>
+        </group>
+    </open-files>
+</project-private>
